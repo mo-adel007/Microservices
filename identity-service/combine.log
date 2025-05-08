@@ -1,0 +1,256 @@
+2025-05-07T06:23:14.410Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:23:16.848Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:45:01.652Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:45:01.652Z [31merror[39m: ReferenceError: looger is not defined
+    at D:\Social-Media-Microservice\identity-service\src\server.js:32:3
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:342:13)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:297:9
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at internalNext (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:531:6)
+    at xXssProtectionMiddleware (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:311:3)
+    at internalNext (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:529:6)
+    at xPoweredByMiddleware (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:304:3)
+2025-05-07T06:45:35.825Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:45:37.337Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:45:46.940Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:45:48.511Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:45:50.279Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:45:50.280Z [31merror[39m: ReferenceError: looger is not defined
+    at D:\Social-Media-Microservice\identity-service\src\server.js:32:3
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:342:13)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:297:9
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at internalNext (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:531:6)
+    at xXssProtectionMiddleware (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:311:3)
+    at internalNext (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:529:6)
+    at xPoweredByMiddleware (D:\Social-Media-Microservice\identity-service\node_modules\helmet\index.cjs:304:3)
+2025-05-07T06:46:41.547Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:46:44.038Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:46:44.039Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:46:44.043Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'validateUser')
+    at registerUser (D:\Social-Media-Microservice\identity-service\src\controllers\identity-controller.js:6:26)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:295:15
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:186:3)
+2025-05-07T06:46:46.667Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:47:35.811Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:47:35.812Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:47:35.813Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'validateUser')
+    at registerUser (D:\Social-Media-Microservice\identity-service\src\controllers\identity-controller.js:6:26)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:295:15
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:186:3)
+2025-05-07T06:47:49.545Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:47:49.545Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:47:49.547Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'validateUser')
+    at registerUser (D:\Social-Media-Microservice\identity-service\src\controllers\identity-controller.js:6:26)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:295:15
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:186:3)
+2025-05-07T06:50:31.142Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:50:31.142Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:50:31.144Z [31merror[39m: TypeError: Cannot read properties of undefined (reading 'validateUser')
+    at registerUser (D:\Social-Media-Microservice\identity-service\src\controllers\identity-controller.js:6:26)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Social-Media-Microservice\identity-service\node_modules\router\lib\layer.js:152:17)
+    at D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:295:15
+    at processParams (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:582:12)
+    at next (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Social-Media-Microservice\identity-service\node_modules\router\index.js:186:3)
+2025-05-07T06:53:03.931Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:53:05.428Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:53:08.018Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:53:08.019Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:53:08.022Z [32minfo[39m: Registering user...
+2025-05-07T06:53:08.023Z [33mwarn[39m: Error registering user: Cannot read properties of undefined (reading 'validateUser')
+2025-05-07T06:53:23.699Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:53:23.699Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:53:23.701Z [32minfo[39m: Registering user...
+2025-05-07T06:53:23.701Z [33mwarn[39m: Error registering user: Cannot read properties of undefined (reading 'validateUser')
+2025-05-07T06:54:48.066Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:54:49.536Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:56:03.011Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:56:03.011Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:56:03.015Z [32minfo[39m: Registering user...
+2025-05-07T06:56:03.016Z [33mwarn[39m: Error registering user: Cannot read properties of undefined (reading 'validateRegistration')
+2025-05-07T06:57:45.904Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:57:47.449Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:57:52.611Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:57:52.611Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:57:52.615Z [32minfo[39m: Registering user...
+2025-05-07T06:57:52.619Z [31merror[39m: Registration error occured Cannot read properties of undefined (reading 'findOne')
+2025-05-07T06:58:21.899Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:58:23.319Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:58:24.527Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:58:24.527Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:58:24.536Z [32minfo[39m: Registering user...
+2025-05-07T06:58:24.540Z [31merror[39m: Registration error occured Cannot read properties of undefined (reading 'findOne')
+2025-05-07T06:59:05.907Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:59:08.563Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:59:11.853Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:59:11.853Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:59:11.858Z [32minfo[39m: Registering user...
+2025-05-07T06:59:11.863Z [31merror[39m: Registration error occured Cannot read properties of undefined (reading 'findOne')
+2025-05-07T06:59:53.719Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T06:59:55.830Z [32minfo[39m: MongoDB connected!
+2025-05-07T06:59:56.937Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T06:59:56.937Z [32minfo[39m: Request body: [object Object]
+2025-05-07T06:59:56.940Z [33mwarn[39m: Rate limit exceeded for IP: ::1
+2025-05-07T07:00:42.028Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T07:00:43.725Z [32minfo[39m: MongoDB connected!
+2025-05-07T07:02:38.265Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T07:02:39.815Z [32minfo[39m: MongoDB connected!
+2025-05-07T07:02:41.461Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T07:02:41.461Z [32minfo[39m: Request body: [object Object]
+2025-05-07T07:02:41.464Z [32minfo[39m: Registering user...
+2025-05-07T07:02:41.468Z [31merror[39m: Registration error occured Cannot read properties of undefined (reading 'findOne')
+2025-05-07T07:03:57.488Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T07:03:59.473Z [32minfo[39m: MongoDB connected!
+2025-05-07T07:04:05.019Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T07:04:05.019Z [32minfo[39m: Request body: [object Object]
+2025-05-07T07:04:05.022Z [32minfo[39m: Registering user...
+2025-05-07T07:04:05.377Z [33mwarn[39m: User saved successfully
+2025-05-07T07:41:14.123Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T07:41:16.612Z [32minfo[39m: MongoDB connected!
+2025-05-07T11:02:37.688Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T11:02:39.317Z [32minfo[39m: MongoDB connected!
+2025-05-07T11:05:07.538Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:05:07.539Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:46:50.116Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:46:50.117Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:47:18.796Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:47:18.796Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:48:16.786Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:48:16.786Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:51:04.496Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:51:04.497Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:51:25.210Z [32minfo[39m: Recieved POST to /register
+2025-05-07T11:51:25.211Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:52:50.765Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:52:50.766Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:52:50.771Z [32minfo[39m: Registering user...
+2025-05-07T11:52:51.185Z [33mwarn[39m: User saved successfully
+2025-05-07T11:53:28.375Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:53:28.375Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:53:28.376Z [32minfo[39m: Registering user...
+2025-05-07T11:53:28.590Z [33mwarn[39m: User already exists
+2025-05-07T11:53:36.988Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:53:36.988Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:53:36.989Z [33mwarn[39m: Rate limit exceeded for IP: ::1
+2025-05-07T11:54:24.146Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:54:24.147Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:54:24.147Z [33mwarn[39m: Rate limit exceeded for IP: ::1
+2025-05-07T11:54:41.747Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T11:54:43.457Z [32minfo[39m: MongoDB connected!
+2025-05-07T11:54:54.484Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T11:54:56.585Z [32minfo[39m: MongoDB connected!
+2025-05-07T11:55:02.686Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:55:02.686Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:55:02.690Z [32minfo[39m: Registering user...
+2025-05-07T11:55:03.361Z [33mwarn[39m: User saved successfully
+2025-05-07T11:59:25.473Z [32minfo[39m: Recieved POST to /api/auth/register
+2025-05-07T11:59:25.474Z [32minfo[39m: Request body: [object Object]
+2025-05-07T11:59:25.476Z [32minfo[39m: Registering user...
+2025-05-07T11:59:25.860Z [33mwarn[39m: User saved successfully
+2025-05-07T12:13:13.779Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:13:15.419Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:16:08.112Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:16:09.821Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:17:26.270Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:17:28.194Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:17:37.999Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:17:40.596Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:18:43.707Z [32minfo[39m: Recieved POST to /v1/auth/login
+2025-05-07T12:18:43.707Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:18:51.758Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-07T12:18:51.758Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:18:51.759Z [32minfo[39m: Login endpoint hit...
+2025-05-07T12:18:51.760Z [31merror[39m: Login error occured validatelogin is not defined
+2025-05-07T12:19:23.257Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:19:24.741Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:19:25.736Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-07T12:19:25.737Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:19:25.739Z [32minfo[39m: Login endpoint hit...
+2025-05-07T12:20:32.568Z [32minfo[39m: Recieved POST to /api/auth/logout
+2025-05-07T12:20:32.569Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:20:32.570Z [32minfo[39m: Logout endpoint hit...
+2025-05-07T12:20:33.113Z [32minfo[39m: Refresh token deleted for logout
+2025-05-07T12:21:02.262Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:21:02.263Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:21:02.264Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:21:02.411Z [33mwarn[39m: Invalid refresh token provided
+2025-05-07T12:21:26.413Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-07T12:21:26.414Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:21:26.414Z [32minfo[39m: Login endpoint hit...
+2025-05-07T12:21:41.849Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:21:41.850Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:21:41.851Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:21:42.142Z [31merror[39m: Refresh token error occured Assignment to constant variable.
+2025-05-07T12:22:06.141Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:22:07.918Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:22:13.060Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:22:13.061Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:22:13.064Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:22:13.211Z [33mwarn[39m: Invalid refresh token provided
+2025-05-07T12:25:26.509Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T12:25:28.254Z [32minfo[39m: MongoDB connected!
+2025-05-07T12:25:35.841Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:25:35.841Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:25:35.844Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:25:36.145Z [33mwarn[39m: Invalid or expired refresh token
+2025-05-07T12:25:39.852Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:25:39.853Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:25:39.854Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:25:40.023Z [33mwarn[39m: Invalid or expired refresh token
+2025-05-07T12:25:44.741Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:25:44.742Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:25:44.743Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:25:44.743Z [33mwarn[39m: Refresh token missing
+2025-05-07T12:26:53.511Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-07T12:26:53.511Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:26:53.512Z [32minfo[39m: Login endpoint hit...
+2025-05-07T12:27:17.314Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:27:17.314Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:27:17.315Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:27:25.533Z [32minfo[39m: Recieved POST to /api/auth/refresh-token
+2025-05-07T12:27:25.533Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:27:25.534Z [32minfo[39m: Refresh token endpoint hit...
+2025-05-07T12:27:25.723Z [33mwarn[39m: Invalid or expired refresh token
+2025-05-07T12:28:07.515Z [32minfo[39m: Recieved POST to /api/auth/logout
+2025-05-07T12:28:07.515Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:28:07.516Z [32minfo[39m: Logout endpoint hit...
+2025-05-07T12:28:07.820Z [33mwarn[39m: Invalid refresh token provided
+2025-05-07T12:28:17.485Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-07T12:28:17.486Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:28:17.487Z [32minfo[39m: Login endpoint hit...
+2025-05-07T12:28:31.480Z [32minfo[39m: Recieved POST to /api/auth/logout
+2025-05-07T12:28:31.480Z [32minfo[39m: Request body: [object Object]
+2025-05-07T12:28:31.481Z [32minfo[39m: Logout endpoint hit...
+2025-05-07T12:28:32.025Z [32minfo[39m: Refresh token deleted for logout
+2025-05-07T13:31:32.512Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-07T13:31:34.185Z [32minfo[39m: MongoDB connected!
