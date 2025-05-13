@@ -1,0 +1,198 @@
+2025-05-11T11:52:03.571Z [32minfo[39m: Post service running on port 3002
+2025-05-11T11:52:05.001Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:10:14.892Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:10:14.893Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:10:14.894Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:13:29.935Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:13:29.936Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:13:29.936Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:39:53.247Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:39:53.248Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:39:53.248Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:41:04.506Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:41:04.506Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:41:04.507Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:41:11.284Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:41:11.285Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:41:11.285Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:42:41.305Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:42:43.511Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:43:37.001Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:43:40.320Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:46:04.847Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:46:06.957Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:46:31.687Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:46:36.820Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:48:23.259Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:48:24.822Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:48:52.255Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:48:52.256Z [32minfo[39m: Request body: undefined
+2025-05-12T07:48:52.257Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:48:53.333Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:48:53.333Z [32minfo[39m: Request body: undefined
+2025-05-12T07:48:53.333Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:48:53.995Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:48:53.995Z [32minfo[39m: Request body: undefined
+2025-05-12T07:48:53.996Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:48:54.506Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:48:54.506Z [32minfo[39m: Request body: undefined
+2025-05-12T07:48:54.507Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:48:54.911Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:48:54.912Z [32minfo[39m: Request body: undefined
+2025-05-12T07:48:54.912Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:50:19.562Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:50:19.563Z [32minfo[39m: Request body: undefined
+2025-05-12T07:50:19.563Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:50:20.451Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:50:20.452Z [32minfo[39m: Request body: undefined
+2025-05-12T07:50:20.452Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:52:35.207Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:52:35.207Z [32minfo[39m: Request body: undefined
+2025-05-12T07:52:35.208Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:52:37.471Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:52:37.471Z [32minfo[39m: Request body: undefined
+2025-05-12T07:52:37.471Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:53:53.672Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:53:55.833Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:53:56.197Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:53:56.198Z [32minfo[39m: Request body: undefined
+2025-05-12T07:53:56.198Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:54:00.374Z [32minfo[39m: Post service running on port 3002
+2025-05-12T07:54:02.119Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:54:03.749Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:54:03.749Z [32minfo[39m: Request body: undefined
+2025-05-12T07:54:03.750Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:56:50.357Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:56:50.358Z [32minfo[39m: Request body: undefined
+2025-05-12T07:56:50.358Z [33mwarn[39m: User ID not found in headers
+2025-05-12T07:57:09.353Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T07:57:09.354Z [32minfo[39m: Request body: undefined
+2025-05-12T07:57:09.354Z [33mwarn[39m: User ID not found in headers
+2025-05-12T08:01:55.790Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:01:57.442Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:01:58.829Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T08:01:58.830Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:01:58.830Z [33mwarn[39m: User ID not found in headers
+2025-05-12T08:02:37.140Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-12T08:02:37.140Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:02:37.141Z [33mwarn[39m: User ID not found in headers
+2025-05-12T08:07:29.595Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:07:29.596Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:07:29.596Z [33mwarn[39m: User ID not found in headers
+2025-05-12T08:15:44.730Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:15:48.036Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:16:11.471Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:16:12.946Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:17:22.992Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:17:22.992Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:17:22.993Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:17:22.993Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:17:39.495Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:17:39.495Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:17:39.496Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:17:39.496Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:21:07.563Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:21:10.909Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:21:10.909Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:21:10.910Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:21:10.911Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:21:12.563Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:23:12.484Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:23:14.154Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:23:14.155Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:23:14.156Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:23:14.156Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:23:24.273Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:23:47.313Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:23:48.580Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:23:48.580Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:23:48.582Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:23:48.582Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:23:50.197Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:24:22.054Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:24:24.602Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:24:47.727Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:24:49.401Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:24:49.402Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:24:49.403Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:24:49.406Z [31merror[39m: Error creating post: post.save is not a function
+2025-05-12T08:24:52.886Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:25:01.617Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:25:01.617Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:25:01.618Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:25:01.619Z [31merror[39m: Error creating post: post.save is not a function
+2025-05-12T08:25:42.095Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:25:44.957Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:25:45.893Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:25:45.894Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:25:45.895Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:25:45.898Z [31merror[39m: Error creating post: Post is not defined
+2025-05-12T08:25:56.982Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:25:58.454Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:25:58.454Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:25:58.455Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:25:58.465Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T08:26:00.285Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:26:47.754Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:26:49.095Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:26:49.095Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:26:49.096Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:26:49.107Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T08:26:51.610Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:28:32.151Z [32minfo[39m: Post service running on port 3002
+2025-05-12T08:28:33.457Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T08:28:33.457Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:28:33.458Z [32minfo[39m: Create post endpoint hit
+2025-05-12T08:28:39.069Z [32minfo[39m: MongoDB connected!
+2025-05-12T08:28:39.461Z [32minfo[39m: Post created successfully: {
+  user: new ObjectId('681b05e5ea5816112e900a0d'),
+  content: 'New Post',
+  mediaIds: [],
+  _id: new ObjectId('6821b131bc799f63a3b34189'),
+  createdAt: 2025-05-12T08:28:33.465Z,
+  updatedAt: 2025-05-12T08:28:33.465Z,
+  __v: 0
+}
+2025-05-12T09:03:11.887Z [32minfo[39m: Post service running on port 3002
+2025-05-12T09:03:13.569Z [32minfo[39m: MongoDB connected!
+2025-05-12T09:03:15.875Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:03:15.875Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:03:15.876Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:03:15.886Z [31merror[39m: Error creating post: Post validation failed: user: Cast to ObjectId failed for value "{ userId: '[object Object]' }" (type Object) at path "user" because of "BSONError"
+2025-05-12T09:03:35.636Z [32minfo[39m: Post service running on port 3002
+2025-05-12T09:03:36.775Z [32minfo[39m: Post service running on port 3002
+2025-05-12T09:03:38.270Z [32minfo[39m: MongoDB connected!
+2025-05-12T09:03:55.101Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:03:55.101Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:03:55.102Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:03:55.112Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:04:27.181Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:04:27.181Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:04:27.182Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:04:27.183Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:05:20.906Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:05:20.906Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:05:20.907Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:05:20.908Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:05:42.925Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:05:42.926Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:05:42.926Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:05:42.928Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:09:07.737Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:09:07.737Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:09:07.737Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:09:07.739Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:09:50.787Z [32minfo[39m: Post service running on port 3002
+2025-05-12T09:09:51.559Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-12T09:09:51.560Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:09:51.561Z [32minfo[39m: Create post endpoint hit
+2025-05-12T09:09:53.025Z [32minfo[39m: MongoDB connected!
+2025-05-12T09:09:53.214Z [32minfo[39m: Post created successfully: {
+  user: new ObjectId('681b05e5ea5816112e900a0d'),
+  content: 'New Post 1',
+  mediaIds: [],
+  _id: new ObjectId('6821badf4522e336355c40a8'),
+  createdAt: 2025-05-12T09:09:51.568Z,
+  updatedAt: 2025-05-12T09:09:51.568Z,
+  __v: 0
+}

@@ -1,0 +1,16 @@
+2025-05-12T08:17:22.993Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:17:39.496Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:21:10.911Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:23:14.156Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:23:48.582Z [31merror[39m: Error creating post: validateCreatePost is not a function
+2025-05-12T08:24:49.406Z [31merror[39m: Error creating post: post.save is not a function
+2025-05-12T08:25:01.619Z [31merror[39m: Error creating post: post.save is not a function
+2025-05-12T08:25:45.898Z [31merror[39m: Error creating post: Post is not defined
+2025-05-12T08:25:58.465Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T08:26:49.107Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:03:15.886Z [31merror[39m: Error creating post: Post validation failed: user: Cast to ObjectId failed for value "{ userId: '[object Object]' }" (type Object) at path "user" because of "BSONError"
+2025-05-12T09:03:55.112Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:04:27.183Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:05:20.908Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:05:42.928Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-12T09:09:07.739Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.

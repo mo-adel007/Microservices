@@ -1,0 +1,11 @@
+2025-05-12T08:08:25.229Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'toString')
+2025-05-12T08:08:35.882Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'toString')
+2025-05-12T08:08:41.583Z [31merror[39m: Proxy error: Invalid value "undefined" for header "x-user-id"
+2025-05-12T08:08:47.087Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'toString')
+2025-05-12T08:09:54.882Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'toString')
+2025-05-12T08:09:57.704Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'toString')
+2025-05-12T08:14:29.256Z [31merror[39m: jwt expired
+2025-05-12T08:14:54.097Z [31merror[39m: User not authenticated, missing req.user in proxyReqOptDecorator
+2025-05-12T08:14:54.098Z [31merror[39m: Proxy error: User not authenticated
+2025-05-12T08:16:14.046Z [31merror[39m: User not authenticated, missing req.user in proxyReqOptDecorator
+2025-05-12T08:16:14.047Z [31merror[39m: Proxy error: User not authenticated

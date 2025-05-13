@@ -254,3 +254,39 @@
 2025-05-07T12:28:32.025Z [32minfo[39m: Refresh token deleted for logout
 2025-05-07T13:31:32.512Z [32minfo[39m: Identity service Server is running on port 3001
 2025-05-07T13:31:34.185Z [32minfo[39m: MongoDB connected!
+2025-05-11T10:33:15.367Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-11T10:33:18.331Z [32minfo[39m: MongoDB connected!
+2025-05-11T11:44:07.652Z [32minfo[39m: Identity service Server is running on port 3001
+2025-05-11T11:44:09.057Z [32minfo[39m: MongoDB connected!
+2025-05-12T07:11:52.055Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:11:52.056Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:11:52.062Z [32minfo[39m: Login endpoint hit...
+2025-05-12T07:11:52.067Z [33mwarn[39m: Validation error
+2025-05-12T07:12:09.086Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:12:09.086Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:12:09.087Z [32minfo[39m: Login endpoint hit...
+2025-05-12T07:12:09.090Z [33mwarn[39m: Validation error
+2025-05-12T07:12:45.953Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:12:45.954Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:12:45.955Z [32minfo[39m: Login endpoint hit...
+2025-05-12T07:12:47.603Z [33mwarn[39m: Invalid password
+2025-05-12T07:12:51.629Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:12:51.629Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:12:51.630Z [32minfo[39m: Login endpoint hit...
+2025-05-12T07:12:52.996Z [33mwarn[39m: Invalid password
+2025-05-12T07:13:02.492Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:13:02.492Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:13:02.493Z [32minfo[39m: Login endpoint hit...
+2025-05-12T07:13:02.723Z [33mwarn[39m: Invalid password
+2025-05-12T07:13:04.801Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T07:13:04.801Z [32minfo[39m: Request body: [object Object]
+2025-05-12T07:13:04.802Z [32minfo[39m: Login endpoint hit...
+2025-05-12T08:07:54.481Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T08:07:54.482Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:07:54.483Z [32minfo[39m: Login endpoint hit...
+2025-05-12T08:14:42.027Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T08:14:42.028Z [32minfo[39m: Request body: [object Object]
+2025-05-12T08:14:42.028Z [32minfo[39m: Login endpoint hit...
+2025-05-12T09:05:29.253Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-12T09:05:29.253Z [32minfo[39m: Request body: [object Object]
+2025-05-12T09:05:29.254Z [32minfo[39m: Login endpoint hit...
