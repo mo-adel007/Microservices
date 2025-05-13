@@ -9,3 +9,16 @@
 2025-05-12T08:14:54.098Z [31merror[39m: Proxy error: User not authenticated
 2025-05-12T08:16:14.046Z [31merror[39m: User not authenticated, missing req.user in proxyReqOptDecorator
 2025-05-12T08:16:14.047Z [31merror[39m: Proxy error: User not authenticated
+2025-05-13T11:13:51.663Z [31merror[39m: jwt expired
+2025-05-13T11:14:03.728Z [31merror[39m: jwt expired
+2025-05-13T11:22:18.109Z [31merror[39m: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\types\json.js:156:10)
+    at parse (D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\types\json.js:71:15)
+    at D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:238:16)
+    at done (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)

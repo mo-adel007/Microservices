@@ -14,3 +14,11 @@
 2025-05-12T09:05:20.908Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
 2025-05-12T09:05:42.928Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
 2025-05-12T09:09:07.739Z [31merror[39m: Error creating post: Post validation failed: user: Path `user` is required.
+2025-05-13T12:40:39.845Z [31merror[39m: ReferenceError: error is not defined
+    at deletePost (D:\Social-Media-Microservice\post-service\src\controllers\post-controller.js:141:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-13T12:41:32.338Z [31merror[39m: ReferenceError: error is not defined
+    at deletePost (D:\Social-Media-Microservice\post-service\src\controllers\post-controller.js:141:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-13T12:43:48.269Z [31merror[39m: Error deleting post cachedKey is not defined
+2025-05-13T12:45:03.301Z [31merror[39m: Error creating post: cachedKey is not defined

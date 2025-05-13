@@ -290,3 +290,6 @@
 2025-05-12T09:05:29.253Z [32minfo[39m: Recieved POST to /api/auth/login
 2025-05-12T09:05:29.253Z [32minfo[39m: Request body: [object Object]
 2025-05-12T09:05:29.254Z [32minfo[39m: Login endpoint hit...
+2025-05-13T11:14:25.576Z [32minfo[39m: Recieved POST to /api/auth/login
+2025-05-13T11:14:25.577Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:14:25.580Z [32minfo[39m: Login endpoint hit...

@@ -196,3 +196,85 @@
   updatedAt: 2025-05-12T09:09:51.568Z,
   __v: 0
 }
+2025-05-13T11:12:49.135Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:12:53.586Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:13:06.466Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:13:08.234Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:13:40.071Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:13:41.857Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:13:49.274Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:13:51.047Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:14:14.466Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:14:16.115Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:14:34.360Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T11:14:34.360Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:14:34.712Z [32minfo[39m: Fetched all posts successfully: 2 posts
+2025-05-13T11:21:26.946Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:21:29.399Z [32minfo[39m: MongoDB connected!
+2025-05-13T11:22:00.580Z [32minfo[39m: Recieved GET to /api/posts/create-post
+2025-05-13T11:22:00.581Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:04.059Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-13T11:22:04.060Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:04.060Z [32minfo[39m: Create post endpoint hit
+2025-05-13T11:22:04.287Z [32minfo[39m: Post created successfully: {
+  user: new ObjectId('681b05e5ea5816112e900a0d'),
+  content: 'New Post',
+  mediaIds: [],
+  _id: new ObjectId('68232b5cd94186d0b0e7d167'),
+  createdAt: 2025-05-13T11:22:04.066Z,
+  updatedAt: 2025-05-13T11:22:04.066Z,
+  __v: 0
+}
+2025-05-13T11:22:28.591Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T11:22:28.591Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:28.883Z [32minfo[39m: Fetched all posts successfully: 3 posts
+2025-05-13T11:22:32.089Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T11:22:32.090Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:33.823Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T11:22:33.823Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:24:39.080Z [32minfo[39m: Post service running on port 3002
+2025-05-13T11:24:40.759Z [32minfo[39m: MongoDB connected!
+2025-05-13T12:17:54.402Z [32minfo[39m: Post service running on port 3002
+2025-05-13T12:17:56.846Z [32minfo[39m: MongoDB connected!
+2025-05-13T12:18:41.632Z [32minfo[39m: Recieved GET to /api/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:18:41.632Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:40:23.580Z [32minfo[39m: Post service running on port 3002
+2025-05-13T12:40:25.909Z [32minfo[39m: MongoDB connected!
+2025-05-13T12:40:39.523Z [32minfo[39m: Recieved DELETE to /api/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:40:39.524Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:40:39.845Z [31merror[39m: ReferenceError: error is not defined
+    at deletePost (D:\Social-Media-Microservice\post-service\src\controllers\post-controller.js:141:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-13T12:41:32.193Z [32minfo[39m: Recieved DELETE to /api/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:32.193Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:41:32.338Z [31merror[39m: ReferenceError: error is not defined
+    at deletePost (D:\Social-Media-Microservice\post-service\src\controllers\post-controller.js:141:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-05-13T12:41:42.400Z [32minfo[39m: Post service running on port 3002
+2025-05-13T12:41:43.850Z [32minfo[39m: Recieved DELETE to /api/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:43.851Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:41:45.148Z [32minfo[39m: MongoDB connected!
+2025-05-13T12:41:49.142Z [32minfo[39m: Recieved DELETE to /api/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:49.143Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:42:18.694Z [32minfo[39m: Recieved DELETE to /api/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:18.695Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:42:54.256Z [32minfo[39m: Recieved DELETE to /api/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:54.256Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:43:35.910Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T12:43:35.910Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:43:36.202Z [32minfo[39m: Fetched all posts successfully: 1 posts
+2025-05-13T12:43:47.906Z [32minfo[39m: Recieved DELETE to /api/posts/6821badf4522e336355c40a8
+2025-05-13T12:43:47.906Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:43:48.269Z [31merror[39m: Error deleting post cachedKey is not defined
+2025-05-13T12:43:51.240Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T12:43:51.240Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:44:11.369Z [32minfo[39m: Recieved DELETE to /api/posts/6821badf4522e336355c40a8
+2025-05-13T12:44:11.370Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:44:15.289Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T12:44:15.290Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:44:18.889Z [32minfo[39m: Recieved GET to /api/posts/all-posts
+2025-05-13T12:44:18.889Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:45:02.604Z [32minfo[39m: Recieved POST to /api/posts/create-post
+2025-05-13T12:45:02.604Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:45:02.604Z [32minfo[39m: Create post endpoint hit
+2025-05-13T12:45:03.301Z [31merror[39m: Error creating post: cachedKey is not defined

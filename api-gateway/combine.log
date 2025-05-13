@@ -285,3 +285,38 @@
 2025-05-12T09:09:51.544Z [32minfo[39m: Recieved POST to /v1/posts/create-post
 2025-05-12T09:09:51.545Z [32minfo[39m: Request body: [object Object]
 2025-05-12T09:09:53.217Z [32minfo[39m: Response received from Post service: 201
+2025-05-13T11:13:51.658Z [32minfo[39m: Recieved GET to /v1/posts/posts
+2025-05-13T11:13:51.659Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:13:51.663Z [31merror[39m: jwt expired
+2025-05-13T11:14:03.726Z [32minfo[39m: Recieved GET to /v1/posts/posts
+2025-05-13T11:14:03.726Z [32minfo[39m: Request body: undefined
+2025-05-13T11:14:03.728Z [31merror[39m: jwt expired
+2025-05-13T11:14:34.340Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T11:14:34.340Z [32minfo[39m: Request body: undefined
+2025-05-13T11:14:34.711Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T11:22:00.568Z [32minfo[39m: Recieved GET to /v1/posts/create-post
+2025-05-13T11:22:00.568Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:00.586Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T11:22:04.056Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-13T11:22:04.056Z [32minfo[39m: Request body: [object Object]
+2025-05-13T11:22:04.290Z [32minfo[39m: Response received from Post service: 201
+2025-05-13T11:22:18.109Z [31merror[39m: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\types\json.js:156:10)
+    at parse (D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\types\json.js:71:15)
+    at D:\Social-Media-Microservice\api-gateway\node_modules\body-parser\lib\read.js:123:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:238:16)
+    at done (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+2025-05-13T11:22:28.587Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T11:22:28.587Z [32minfo[39m: Request body: undefined
+2025-05-13T11:22:28.884Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T11:22:32.086Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T11:22:32.086Z [32minfo[39m: Request body: undefined
+2025-05-13T11:22:32.092Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T11:22:33.819Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T11:22:33.820Z [32minfo[39m: Request body: undefined
+2025-05-13T11:22:33.825Z [32minfo[39m: Response received from Post service: 200
