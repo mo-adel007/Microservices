@@ -22,3 +22,10 @@
     at IncomingMessage.onEnd (D:\Social-Media-Microservice\api-gateway\node_modules\raw-body\index.js:287:7)
     at IncomingMessage.emit (node:events:519:28)
     at endReadableNT (node:internal/streams/readable:1696:12)
+2025-05-13T12:18:18.796Z [31merror[39m: No token provided
+2025-05-13T12:18:30.120Z [31merror[39m: jwt expired
+2025-05-13T12:42:27.595Z [31merror[39m: No token provided
+2025-05-13T12:42:30.123Z [31merror[39m: jwt malformed
+2025-05-13T12:42:37.227Z [31merror[39m: jwt malformed
+2025-05-13T12:43:29.834Z [31merror[39m: jwt expired
+2025-05-13T12:44:54.328Z [31merror[39m: jwt malformed

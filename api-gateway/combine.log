@@ -320,3 +320,81 @@
 2025-05-13T11:22:33.819Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
 2025-05-13T11:22:33.820Z [32minfo[39m: Request body: undefined
 2025-05-13T11:22:33.825Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:18:18.795Z [32minfo[39m: Recieved GET to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:18:18.795Z [32minfo[39m: Request body: undefined
+2025-05-13T12:18:18.796Z [31merror[39m: No token provided
+2025-05-13T12:18:30.119Z [32minfo[39m: Recieved GET to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:18:30.119Z [32minfo[39m: Request body: undefined
+2025-05-13T12:18:30.120Z [31merror[39m: jwt expired
+2025-05-13T12:18:41.617Z [32minfo[39m: Recieved GET to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:18:41.618Z [32minfo[39m: Request body: undefined
+2025-05-13T12:18:41.822Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:40:39.508Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:40:39.509Z [32minfo[39m: Request body: undefined
+2025-05-13T12:40:39.847Z [32minfo[39m: Response received from Post service: 500
+2025-05-13T12:41:32.188Z [32minfo[39m: Recieved DELETE to /v1/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:32.188Z [32minfo[39m: Request body: undefined
+2025-05-13T12:41:32.339Z [32minfo[39m: Response received from Post service: 500
+2025-05-13T12:41:43.838Z [32minfo[39m: Recieved DELETE to /v1/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:43.838Z [32minfo[39m: Request body: undefined
+2025-05-13T12:41:45.491Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T12:41:49.139Z [32minfo[39m: Recieved DELETE to /v1/posts/6821b131bc799f63a3b34189
+2025-05-13T12:41:49.139Z [32minfo[39m: Request body: undefined
+2025-05-13T12:41:49.523Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T12:42:18.690Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:18.691Z [32minfo[39m: Request body: undefined
+2025-05-13T12:42:18.859Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T12:42:27.594Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:27.594Z [32minfo[39m: Request body: undefined
+2025-05-13T12:42:27.595Z [31merror[39m: No token provided
+2025-05-13T12:42:30.122Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:30.122Z [32minfo[39m: Request body: undefined
+2025-05-13T12:42:30.123Z [31merror[39m: jwt malformed
+2025-05-13T12:42:37.227Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:37.227Z [32minfo[39m: Request body: undefined
+2025-05-13T12:42:37.227Z [31merror[39m: jwt malformed
+2025-05-13T12:42:54.252Z [32minfo[39m: Recieved DELETE to /v1/posts/68232b5cd94186d0b0e7d167
+2025-05-13T12:42:54.253Z [32minfo[39m: Request body: undefined
+2025-05-13T12:42:54.685Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T12:43:29.832Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:43:29.833Z [32minfo[39m: Request body: undefined
+2025-05-13T12:43:29.834Z [31merror[39m: jwt expired
+2025-05-13T12:43:35.906Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:43:35.907Z [32minfo[39m: Request body: undefined
+2025-05-13T12:43:36.203Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:43:47.903Z [32minfo[39m: Recieved DELETE to /v1/posts/6821badf4522e336355c40a8
+2025-05-13T12:43:47.903Z [32minfo[39m: Request body: undefined
+2025-05-13T12:43:48.271Z [32minfo[39m: Response received from Post service: 500
+2025-05-13T12:43:51.237Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:43:51.237Z [32minfo[39m: Request body: undefined
+2025-05-13T12:43:51.242Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:44:11.366Z [32minfo[39m: Recieved DELETE to /v1/posts/6821badf4522e336355c40a8
+2025-05-13T12:44:11.366Z [32minfo[39m: Request body: undefined
+2025-05-13T12:44:11.643Z [32minfo[39m: Response received from Post service: 404
+2025-05-13T12:44:15.285Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:44:15.286Z [32minfo[39m: Request body: undefined
+2025-05-13T12:44:15.291Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:44:18.885Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:44:18.886Z [32minfo[39m: Request body: undefined
+2025-05-13T12:44:18.891Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:44:54.327Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-13T12:44:54.327Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:44:54.328Z [31merror[39m: jwt malformed
+2025-05-13T12:45:02.600Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-13T12:45:02.601Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:45:03.303Z [32minfo[39m: Response received from Post service: 500
+2025-05-13T12:45:25.698Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-13T12:45:25.698Z [32minfo[39m: Request body: [object Object]
+2025-05-13T12:45:27.427Z [32minfo[39m: Response received from Post service: 201
+2025-05-13T12:45:35.570Z [32minfo[39m: Recieved DELETE to /v1/posts/68233ee5a42aa1c31c6e8ec7
+2025-05-13T12:45:35.570Z [32minfo[39m: Request body: undefined
+2025-05-13T12:45:35.811Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:45:38.750Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:45:38.750Z [32minfo[39m: Request body: undefined
+2025-05-13T12:45:39.353Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:45:45.083Z [32minfo[39m: Recieved DELETE to /v1/posts/68233ecee1169d68298d810e
+2025-05-13T12:45:45.083Z [32minfo[39m: Request body: undefined
+2025-05-13T12:45:45.391Z [32minfo[39m: Response received from Post service: 200
+2025-05-13T12:45:47.224Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-13T12:45:47.224Z [32minfo[39m: Request body: undefined
+2025-05-13T12:45:47.535Z [32minfo[39m: Response received from Post service: 200
