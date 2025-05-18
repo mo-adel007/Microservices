@@ -1,7 +1,7 @@
 const logger = require("../utils/logger");
 const { validateCreatePost } = require("../utils/validation");
 const Post = require("../models/Post");
-
+const { publishEvent } = require("../utils/rabbitmq");
 async function invalidatePostCache(req, input) {
   const cachedKey = `post:${input}`;
   await req.redisClient.del(cachedKey);
@@ -126,12 +126,11 @@ const deletePost = async (req, res) => {
       });
     }
 
-    //publish post delete method ->
-    // await publishEvent("post.deleted", {
-    //   postId: post._id.toString(),
-    //   userId: req.user.userId,
-    //   mediaIds: post.mediaIds,
-    // });
+    await publishEvent("post.deleted", {
+      postId: post._id.toString(),
+      userId: req.user.userId,
+      mediaIds: post.mediaIds,
+    });
 
     await invalidatePostCache(req, req.params.id);
     res.json({

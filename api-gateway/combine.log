@@ -398,3 +398,152 @@
 2025-05-13T12:45:47.224Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
 2025-05-13T12:45:47.224Z [32minfo[39m: Request body: undefined
 2025-05-13T12:45:47.535Z [32minfo[39m: Response received from Post service: 200
+2025-05-14T10:58:27.355Z [32minfo[39m: API Gateway is running on port 3000
+2025-05-14T10:58:27.358Z [32minfo[39m: Identity is running on port http://localhost:3001
+2025-05-14T10:58:27.358Z [32minfo[39m: Post is running on port http://localhost:3002
+2025-05-14T10:58:27.358Z [32minfo[39m: Redis is running on port redis://localhost:6379
+2025-05-14T10:58:57.315Z [32minfo[39m: API Gateway is running on port 3000
+2025-05-14T10:58:57.318Z [32minfo[39m: Identity is running on port http://localhost:3001
+2025-05-14T10:58:57.318Z [32minfo[39m: Post is running on port http://localhost:3002
+2025-05-14T10:58:57.318Z [32minfo[39m: Media is running on port http://localhost:3003
+2025-05-14T10:58:57.319Z [32minfo[39m: Redis is running on port redis://localhost:6379
+2025-05-14T11:01:28.501Z [32minfo[39m: Recieved POST to /v1/mdeia/upload
+2025-05-14T11:01:28.501Z [32minfo[39m: Request body: undefined
+2025-05-14T11:01:32.536Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:01:32.537Z [32minfo[39m: Request body: undefined
+2025-05-14T11:01:32.537Z [31merror[39m: No token provided
+2025-05-14T11:01:46.336Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:01:46.337Z [32minfo[39m: Request body: undefined
+2025-05-14T11:01:46.340Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'content-type')
+2025-05-14T11:02:42.514Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:02:42.514Z [32minfo[39m: Request body: undefined
+2025-05-14T11:02:42.516Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'content-type')
+2025-05-14T11:04:05.359Z [32minfo[39m: API Gateway is running on port 3000
+2025-05-14T11:04:05.362Z [32minfo[39m: Identity is running on port http://localhost:3001
+2025-05-14T11:04:05.362Z [32minfo[39m: Post is running on port http://localhost:3002
+2025-05-14T11:04:05.362Z [32minfo[39m: Media is running on port http://localhost:3003
+2025-05-14T11:04:05.362Z [32minfo[39m: Redis is running on port redis://localhost:6379
+2025-05-14T11:04:07.395Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:04:07.395Z [32minfo[39m: Request body: undefined
+2025-05-14T11:04:29.618Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:04:29.619Z [32minfo[39m: Request body: undefined
+2025-05-14T11:05:02.901Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-14T11:05:02.901Z [32minfo[39m: Request body: undefined
+2025-05-18T07:57:39.538Z [32minfo[39m: API Gateway is running on port 3000
+2025-05-18T07:57:39.541Z [32minfo[39m: Identity is running on port http://localhost:3001
+2025-05-18T07:57:39.541Z [32minfo[39m: Post is running on port http://localhost:3002
+2025-05-18T07:57:39.541Z [32minfo[39m: Media is running on port http://localhost:3003
+2025-05-18T07:57:39.542Z [32minfo[39m: Redis is running on port redis://localhost:6379
+2025-05-18T08:03:03.835Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:03:03.837Z [32minfo[39m: Request body: undefined
+2025-05-18T08:03:03.837Z [31merror[39m: No token provided
+2025-05-18T08:03:18.497Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:03:18.497Z [32minfo[39m: Request body: undefined
+2025-05-18T08:03:18.502Z [31merror[39m: Proxy error: Cannot read properties of undefined (reading 'startsWith')
+2025-05-18T08:03:55.781Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:03:55.782Z [32minfo[39m: Request body: undefined
+2025-05-18T08:04:48.374Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-18T08:04:48.375Z [32minfo[39m: Request body: undefined
+2025-05-18T08:05:19.967Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:05:19.967Z [32minfo[39m: Request body: undefined
+2025-05-18T08:05:35.997Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:05:35.997Z [32minfo[39m: Request body: undefined
+2025-05-18T08:06:40.493Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:06:40.493Z [32minfo[39m: Request body: undefined
+2025-05-18T08:44:01.379Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T08:44:01.381Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T08:44:01.382Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T08:44:01.383Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T08:48:21.953Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:48:21.953Z [32minfo[39m: Request body: undefined
+2025-05-18T08:49:07.848Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:49:07.848Z [32minfo[39m: Request body: undefined
+2025-05-18T08:49:22.040Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:49:22.040Z [32minfo[39m: Request body: undefined
+2025-05-18T08:49:22.042Z [31merror[39m: jwt expired
+2025-05-18T08:49:35.745Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:49:35.745Z [32minfo[39m: Request body: undefined
+2025-05-18T08:49:36.802Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T08:49:57.816Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T08:49:57.817Z [32minfo[39m: Request body: [object Object]
+2025-05-18T08:49:58.118Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T08:50:04.449Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:50:04.449Z [32minfo[39m: Request body: undefined
+2025-05-18T08:50:04.995Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T08:50:17.571Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-18T08:50:17.571Z [32minfo[39m: Request body: undefined
+2025-05-18T08:50:28.762Z [32minfo[39m: Recieved GET to /v1/media/get
+2025-05-18T08:50:28.762Z [32minfo[39m: Request body: undefined
+2025-05-18T08:52:00.018Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T08:52:00.018Z [32minfo[39m: Request body: [object Object]
+2025-05-18T08:52:00.587Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T08:52:09.018Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:52:09.018Z [32minfo[39m: Request body: undefined
+2025-05-18T08:52:09.659Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T08:52:44.010Z [32minfo[39m: Recieved DELETE to /v1/posts/681b05e5ea5816112e900a0d
+2025-05-18T08:52:44.010Z [32minfo[39m: Request body: undefined
+2025-05-18T08:52:44.599Z [32minfo[39m: Response received from Post service: 404
+2025-05-18T08:52:57.542Z [32minfo[39m: Recieved DELETE to /v1/posts/68299fb0d62c47011731b261
+2025-05-18T08:52:57.542Z [32minfo[39m: Request body: undefined
+2025-05-18T08:52:58.419Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T08:59:32.494Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:59:32.494Z [32minfo[39m: Request body: undefined
+2025-05-18T08:59:32.497Z [31merror[39m: Proxy error: 
+2025-05-18T08:59:55.358Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T08:59:55.359Z [32minfo[39m: Request body: undefined
+2025-05-18T08:59:55.654Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:00:01.641Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T09:00:01.641Z [32minfo[39m: Request body: [object Object]
+2025-05-18T09:00:01.807Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T09:00:04.724Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T09:00:04.724Z [32minfo[39m: Request body: undefined
+2025-05-18T09:00:05.012Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:00:32.709Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a1917b3a71fcc3d047dc
+2025-05-18T09:00:32.710Z [32minfo[39m: Request body: undefined
+2025-05-18T09:00:32.920Z [32minfo[39m: Response received from Post service: 500
+2025-05-18T09:07:46.390Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a1917b3a71fcc3d047dc
+2025-05-18T09:07:46.391Z [32minfo[39m: Request body: undefined
+2025-05-18T09:07:46.561Z [32minfo[39m: Response received from Post service: 404
+2025-05-18T09:07:50.696Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T09:07:50.696Z [32minfo[39m: Request body: undefined
+2025-05-18T09:07:50.982Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:07:55.183Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T09:07:55.183Z [32minfo[39m: Request body: [object Object]
+2025-05-18T09:07:55.338Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T09:08:00.957Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a36b714a1d67cd71bc6e
+2025-05-18T09:08:00.958Z [32minfo[39m: Request body: undefined
+2025-05-18T09:08:01.106Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:08:24.817Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T09:08:24.818Z [32minfo[39m: Request body: [object Object]
+2025-05-18T09:08:24.966Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T09:09:06.742Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-18T09:09:06.742Z [32minfo[39m: Request body: undefined
+2025-05-18T09:09:06.743Z [31merror[39m: jwt expired
+2025-05-18T09:09:22.617Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-18T09:09:22.617Z [32minfo[39m: Request body: undefined
+2025-05-18T09:09:38.368Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T09:09:38.368Z [32minfo[39m: Request body: [object Object]
+2025-05-18T09:09:38.556Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T09:09:41.473Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T09:09:41.473Z [32minfo[39m: Request body: undefined
+2025-05-18T09:09:41.786Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:10:29.033Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T09:10:29.034Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T09:10:29.035Z [31merror[39m: Proxy error: read ECONNRESET
+2025-05-18T09:22:50.685Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a3d2714a1d67cd71bc73
+2025-05-18T09:22:50.685Z [32minfo[39m: Request body: undefined
+2025-05-18T09:22:50.957Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:30:22.994Z [32minfo[39m: Recieved POST to /v1/media/upload
+2025-05-18T09:30:22.994Z [32minfo[39m: Request body: undefined
+2025-05-18T09:30:39.053Z [32minfo[39m: Recieved POST to /v1/posts/create-post
+2025-05-18T09:30:39.053Z [32minfo[39m: Request body: [object Object]
+2025-05-18T09:30:39.198Z [32minfo[39m: Response received from Post service: 201
+2025-05-18T09:30:55.183Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a8bf714a1d67cd71bc78
+2025-05-18T09:30:55.184Z [32minfo[39m: Request body: undefined
+2025-05-18T09:30:55.334Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:32:11.964Z [32minfo[39m: Recieved GET to /v1/posts/all-posts
+2025-05-18T09:32:11.964Z [32minfo[39m: Request body: undefined
+2025-05-18T09:32:12.271Z [32minfo[39m: Response received from Post service: 200
+2025-05-18T09:32:19.782Z [32minfo[39m: Recieved DELETE to /v1/posts/6829a388714a1d67cd71bc71
+2025-05-18T09:32:19.783Z [32minfo[39m: Request body: undefined
+2025-05-18T09:32:20.406Z [32minfo[39m: Response received from Post service: 200

@@ -22,3 +22,11 @@
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
 2025-05-13T12:43:48.269Z [31merror[39m: Error deleting post cachedKey is not defined
 2025-05-13T12:45:03.301Z [31merror[39m: Error creating post: cachedKey is not defined
+2025-05-18T08:47:58.796Z [31merror[39m: Error connectiont to rabbit mq
+2025-05-18T08:58:53.108Z [31merror[39m: Error connectiont to rabbit mq
+2025-05-18T08:59:51.879Z [31merror[39m: Error connectiont to rabbit mq
+2025-05-18T09:00:32.918Z [31merror[39m: Error connectiont to rabbit mq
+2025-05-18T09:00:32.919Z [31merror[39m: Error deleting post Cannot read properties of null (reading 'publish')
+2025-05-18T09:01:37.952Z [31merror[39m: Error connectiont to rabbit mq
+2025-05-18T09:02:49.687Z [31merror[39m: Error connecting to rabbit mq
+2025-05-18T09:03:33.727Z [31merror[39m: Error connecting to rabbit mq
